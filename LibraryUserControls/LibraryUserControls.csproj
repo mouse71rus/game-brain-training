@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C0D9D6CD-B6EF-41A6-99B3-A16F602D7654}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>LibraryUserControls</RootNamespace>
+    <AssemblyName>LibraryUserControls</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="btn_down.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="btn_down.Designer.cs">
+      <DependentUpon>btn_down.cs</DependentUpon>
+    </Compile>
+    <Compile Include="btn_GetInfoAboutit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="btn_GetInfoAboutit.Designer.cs">
+      <DependentUpon>btn_GetInfoAboutit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="btn_up.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="btn_up.Designer.cs">
+      <DependentUpon>btn_up.cs</DependentUpon>
+    </Compile>
+    <Compile Include="lbl_SelectedLVL.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="lbl_SelectedLVL.Designer.cs">
+      <DependentUpon>lbl_SelectedLVL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UIButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIButton.Designer.cs">
+      <DependentUpon>UIButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UISelectedLevel.cs">
+      <SubType>UserControl</SubType>
+      <CustomToolNamespace>PersonalTask_Zhimerin</CustomToolNamespace>
+    </Compile>
+    <Compile Include="UISelectedLevel.Designer.cs">
+      <DependentUpon>UISelectedLevel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="btn_down.resx">
+      <DependentUpon>btn_down.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="btn_GetInfoAboutit.resx">
+      <DependentUpon>btn_GetInfoAboutit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="btn_up.resx">
+      <DependentUpon>btn_up.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lbl_SelectedLVL.resx">
+      <DependentUpon>lbl_SelectedLVL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIButton.resx">
+      <DependentUpon>UIButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UISelectedLevel.resx">
+      <DependentUpon>UISelectedLevel.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Down.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\up_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Down_click.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Get_Info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Get_Info_Canvas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Get_Info_Click.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

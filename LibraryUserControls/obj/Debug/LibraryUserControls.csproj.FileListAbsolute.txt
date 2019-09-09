@@ -1,0 +1,14 @@
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\bin\Debug\LibraryUserControls.dll
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\bin\Debug\LibraryUserControls.pdb
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Debug\LibraryUserControls.btn_down.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Debug\LibraryUserControls.btn_GetInfoAboutit.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Debug\LibraryUserControls.btn_up.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Debug\LibraryUserControls.lbl_SelectedLVL.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Debug\LibraryUserControls.Properties.Resources.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Debug\LibraryUserControls.UIButton.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Debug\LibraryUserControls.UISelectedLevel.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Debug\LibraryUserControls.csproj.GenerateResource.cache
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Debug\LibraryUserControls.csproj.CoreCompileInputs.cache
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Debug\LibraryUserControls.dll
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Debug\LibraryUserControls.pdb
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Debug\LibraryUserControls.csprojResolveAssemblyReference.cache

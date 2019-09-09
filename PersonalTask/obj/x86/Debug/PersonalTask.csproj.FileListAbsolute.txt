@@ -1,0 +1,56 @@
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\bin\Debug\PersonalTask.exe.config
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\bin\Debug\PersonalTask.exe
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\bin\Debug\PersonalTask.pdb
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.csprojResolveAssemblyReference.cache
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.MainForm.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.Menu.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.Properties.Resources.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.Settings.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.csproj.GenerateResource.cache
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.csproj.CoreCompileInputs.cache
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.exe
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.pdb
+E:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\bin\Debug\PersonalTask.exe.config
+E:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.exe
+E:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.pdb
+E:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\bin\Debug\PersonalTask.exe
+E:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\bin\Debug\PersonalTask.pdb
+E:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.csprojResolveAssemblyReference.cache
+E:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.UIButton.resources
+E:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.MainForm.resources
+E:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.Menu.resources
+E:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.Properties.Resources.resources
+E:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.Settings.resources
+E:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.csproj.GenerateResource.Cache
+G:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\bin\Debug\PersonalTask.exe.config
+G:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\bin\Debug\PersonalTask.exe
+G:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\bin\Debug\PersonalTask.pdb
+G:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.csprojResolveAssemblyReference.cache
+G:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.UIButton.resources
+G:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.MainForm.resources
+G:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.Menu.resources
+G:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.Properties.Resources.resources
+G:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.Settings.resources
+G:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.csproj.GenerateResource.cache
+G:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.csproj.CoreCompileInputs.cache
+G:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.exe
+G:\Учёба\ООП\Индивидуальное задание\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.pdb
+E:\Сергей\Visual Studio Проекты\PersonalTask_Zhimerin_BACKUP\PersonalTask\bin\Debug\PersonalTask.exe.config
+E:\Сергей\Visual Studio Проекты\PersonalTask_Zhimerin_BACKUP\PersonalTask\bin\Debug\PersonalTask.exe
+E:\Сергей\Visual Studio Проекты\PersonalTask_Zhimerin_BACKUP\PersonalTask\bin\Debug\PersonalTask.pdb
+E:\Сергей\Visual Studio Проекты\PersonalTask_Zhimerin_BACKUP\PersonalTask\obj\x86\Debug\PersonalTask.csprojResolveAssemblyReference.cache
+E:\Сергей\Visual Studio Проекты\PersonalTask_Zhimerin_BACKUP\PersonalTask\obj\x86\Debug\PersonalTask.UIButton.resources
+E:\Сергей\Visual Studio Проекты\PersonalTask_Zhimerin_BACKUP\PersonalTask\obj\x86\Debug\PersonalTask.MainForm.resources
+E:\Сергей\Visual Studio Проекты\PersonalTask_Zhimerin_BACKUP\PersonalTask\obj\x86\Debug\PersonalTask.Menu.resources
+E:\Сергей\Visual Studio Проекты\PersonalTask_Zhimerin_BACKUP\PersonalTask\obj\x86\Debug\PersonalTask.Properties.Resources.resources
+E:\Сергей\Visual Studio Проекты\PersonalTask_Zhimerin_BACKUP\PersonalTask\obj\x86\Debug\PersonalTask.Settings.resources
+E:\Сергей\Visual Studio Проекты\PersonalTask_Zhimerin_BACKUP\PersonalTask\obj\x86\Debug\PersonalTask.csproj.GenerateResource.cache
+E:\Сергей\Visual Studio Проекты\PersonalTask_Zhimerin_BACKUP\PersonalTask\obj\x86\Debug\PersonalTask.csproj.CoreCompileInputs.cache
+E:\Сергей\Visual Studio Проекты\PersonalTask_Zhimerin_BACKUP\PersonalTask\obj\x86\Debug\PersonalTask.exe
+E:\Сергей\Visual Studio Проекты\PersonalTask_Zhimerin_BACKUP\PersonalTask\obj\x86\Debug\PersonalTask.pdb
+E:\Сергей\Visual Studio Проекты\PersonalTask_Zhimerin_BACKUP\PersonalTask\obj\x86\Debug\PersonalTask.Info.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.Info.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\bin\Debug\LibraryUserControls.dll
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\bin\Debug\LibraryUserControls.pdb
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.csproj.CopyComplete
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Debug\PersonalTask.Download_Res.resources

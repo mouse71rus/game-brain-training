@@ -1,0 +1,17 @@
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\bin\Release\PersonalTask.exe.config
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\bin\Release\PersonalTask.exe
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\bin\Release\PersonalTask.pdb
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Release\PersonalTask.MainForm.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Release\PersonalTask.Menu.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Release\PersonalTask.Properties.Resources.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Release\PersonalTask.Settings.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Release\PersonalTask.csproj.GenerateResource.cache
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Release\PersonalTask.csproj.CoreCompileInputs.cache
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Release\PersonalTask.exe
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Release\PersonalTask.pdb
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\bin\Release\LibraryUserControls.dll
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\bin\Release\LibraryUserControls.pdb
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Release\PersonalTask.Download_Res.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Release\PersonalTask.Info.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Release\PersonalTask.csproj.CopyComplete
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\PersonalTask\obj\x86\Release\PersonalTask.csprojAssemblyReference.cache

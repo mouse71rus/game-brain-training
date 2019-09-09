@@ -1,0 +1,14 @@
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\bin\Release\LibraryUserControls.dll
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\bin\Release\LibraryUserControls.pdb
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Release\LibraryUserControls.btn_down.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Release\LibraryUserControls.btn_GetInfoAboutit.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Release\LibraryUserControls.btn_up.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Release\LibraryUserControls.lbl_SelectedLVL.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Release\LibraryUserControls.Properties.Resources.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Release\LibraryUserControls.UIButton.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Release\LibraryUserControls.UISelectedLevel.resources
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Release\LibraryUserControls.csproj.GenerateResource.cache
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Release\LibraryUserControls.csproj.CoreCompileInputs.cache
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Release\LibraryUserControls.dll
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Release\LibraryUserControls.pdb
+E:\Сергей\Visual Studio Проекты\2 курс\4 семестр\ООП\PersonalTask_Zhimerin\LibraryUserControls\obj\Release\LibraryUserControls.csprojAssemblyReference.cache
